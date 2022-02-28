@@ -48,7 +48,9 @@
 
   ## [Usage](#table-of-contents)
 
-  `localhost:3001/api/users` and `localhost:3001/api/thoughts` will give you all you need when using GET, POST, PUT, & DELETE functions with respective USER and THOUGHT id's.
+  `localhost:3001/api/users` and `localhost:3001/api/thoughts` will give you all you need when using GET, POST, PUT, & DELETE functions with respective USER and THOUGHT id's. As   well as ADD and DELETE friends as shown in the video below.
+  
+  https://user-images.githubusercontent.com/87203701/155918261-5f43a84b-3361-48ea-945f-17fa9709f9fe.mp4
   
   ![Users](assets/img/Users.PNG)
   
