@@ -22,7 +22,7 @@
 
   This is the backend of a social media site that uses Express and MongoDB. You can use all CRUD elements on USERS, THOUGHTS, REACTIONS, and even add friends.
   
-  ![NoSQL - ScreenCapture](assets/img/NoSQL - ScreenCapture.PNG)
+  ![NoSQL - ScreenCapture](assets/img/NoSQL-ScreenCapture.PNG)
 
   Clone the repository and make sure express and mongoose are installed and up to date. The use command npm start in the terminal to gewt the api up and running. Now navigate to   Insomnia where you can use localhost:3001/api to access the api.
 
