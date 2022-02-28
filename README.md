@@ -3,39 +3,32 @@
   
   
   ![badge](https://img.shields.io/badge/license-mit-blue)
-    
+  
+  https://user-images.githubusercontent.com/87203701/155913558-d450edde-a2b6-482f-943e-5f0301246587.mp4
+
+
 
   ## Table-of-Contents
 
   * [Description](#description)
-  * [Installation](#installation)
   * [Usage](#usage)
   
   * [License](#license)
     
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
 
-  null
-
   This is the backend of a social media site that uses Express and MongoDB. You can use all CRUD elements on USERS, THOUGHTS, REACTIONS, and even add friends.
+  
+  ![NoSQL - ScreenCapture](assets/img/NoSQL - ScreenCapture.PNG)
 
-  Clone the repository and make sure express and mongoose are installed and up to date. The use command npm start in the terminal to gewt the api up and running. Now navigate to Insomnia where you can use localhost:3001/api to access the api.
-
-  ## [Installation](#table-of-contents)
-
-  null
+  Clone the repository and make sure express and mongoose are installed and up to date. The use command npm start in the terminal to gewt the api up and running. Now navigate to   Insomnia where you can use localhost:3001/api to access the api.
 
   ## [Usage](#table-of-contents)
 
-  localhost:3001/api/users and localhost:3001/api/thoughts will give you all you need when using GET, POST, PUT, & DELETE functions.
-  
-  For more information on how to add screenshots for examples, visit the following website:
-  
-  [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
+  localhost:3001/api/users and localhost:3001/api/thoughts will give you all you need when using GET, POST, PUT, & DELETE functions with respective USER and THOUGHT id's.
   
   
   ## [License](#table-of-contents)
@@ -52,10 +45,6 @@
   
   Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
     
-
-  ## [Tests](#table-of-contents)
-
-  null
 
   ## [Questions](#table-of-contents)
 
