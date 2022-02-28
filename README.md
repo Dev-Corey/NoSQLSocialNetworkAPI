@@ -24,7 +24,7 @@
   
   ![NoSQL - ScreenCapture](assets/img/NoSQLScreenCapture.PNG)
 
-  Clone the [repository]() and make sure express and mongoose are **installed and up to date**. The use command `npm start` in the terminal to gewt the api up and running. Now navigate to Insomnia where you can use `localhost:3001/api` to access the api.
+  Clone the [repository](https://github.com/cboensch6505/NoSQLSocialNetworkAPI) and make sure express and mongoose are **installed and up to date**. The use command `npm start` in the terminal to gewt the api up and running. Now navigate to Insomnia where you can use `localhost:3001/api` to access the api.
 
   ## [Usage](#table-of-contents)
 
